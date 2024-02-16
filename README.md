@@ -1,5 +1,5 @@
 # Snake Game python
-![Imagen del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true)
+![Imagen del proyecto](https://github.com/alejandro-lobos/snake.-game-python-3.11.5/blob/774580f6327880b07e7ecefba1c99357f8d6240e/snake-image)
 
 <!-- ## Ejemplo en vivo
 - [URL-de-github-pages-de-este-proyecto](URL-de-github-pages-de-este-proyecto)
