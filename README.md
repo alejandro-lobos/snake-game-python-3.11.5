@@ -26,7 +26,6 @@ Si quieres hechas un vistazo al proyecto, te recomiendo:
 ## Autor ✒️
 Alejandro Lobos Arenas
 
-* [alejandro.lobosarenas@gmail.com](alejandro.lobosarenas@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/alejandro-lobos-arenas/)
 * [GitHub](https://github.com/alejandro-lobos)
 * [Porfolio web](https://alejandrolobos.com/)
