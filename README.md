@@ -7,11 +7,11 @@
 
 ## Descripción 📑
 
-Juego del sanke realizado en python con orientacion a objetos.
+Este proyecto consiste en la implementación de un juego de la serpiente en Python utilizando la biblioteca Turtle. El jugador controla una serpiente que se mueve por la pantalla y debe comer alimentos representados por círculos rojos para aumentar su longitud y puntaje. El juego termina si la serpiente choca contra los bordes de la pantalla o contra su propio cuerpo. La puntuación se muestra en la parte superior de la pantalla, junto con el récord más alto alcanzado durante la sesión de juego.
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻 
 
-En este proyecto se han utilizado distintas herramientas de 
+Durante la realización de este proyecto, he aprendido a utilizar la biblioteca Turtle para crear una interfaz gráfica simple y dinámica en Python. Además, he ganado experiencia en el manejo de eventos del teclado para controlar la dirección de la serpiente, la detección de colisiones con bordes y objetos, la manipulación de listas para representar el cuerpo de la serpiente, y la actualización continua del juego. También he mejorado mis habilidades de organización y estructuración del código al trabajar con clases y métodos. Este proyecto ha proporcionado una valiosa práctica en el desarrollo de juegos simples en Python y ha fortalecido mi comprensión de los conceptos de programación orientada a objetos.
 
 ## Tecnologías 🛠
 <!-- Iconos sacados de: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
