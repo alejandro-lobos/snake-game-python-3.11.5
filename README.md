@@ -15,7 +15,7 @@ Durante la realización de este proyecto, he aprendido a utilizar la biblioteca 
 
 ## Tecnologías 🛠
 <!-- Iconos sacados de: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Vista previa del proyecto
 Si quieres hechas un vistazo al proyecto, te recomiendo:
@@ -36,7 +36,7 @@ Alejandro Lobos Arenas
 1. Instalar python 3.11.5
 2. Descargar el archivo
 3. Desde la terminal pip install PythonTurtle
-4. desde la terminal python nombredetuarchivo.py
+4. desde la terminal python main.py
 5. Se puede configurar la resolucion de la pantalla cambiando los parametros en esta seccion del codigo "juego_snake = SnakeGame(ancho=800, alto=600)  # Ajusta los valores según sea necesario"
 
 
